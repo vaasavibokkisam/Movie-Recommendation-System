@@ -36,8 +36,4 @@ Once the closest match is found, we retrieve the top 30 movies with the highest 
 
 We sort the similar movies based on their similarity scores in descending order.
 
-The top results are presented as recommendations.
-# Result :
-
-
 
